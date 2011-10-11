@@ -1,0 +1,35 @@
+Reading Type Geo 1.1 
+
+1.  FONTLOG for Geo
+This file provides detailed information on the Geo font software.
+This information should be distributed along with the Geo fonts and any derivative works.
+
+2.  Basic Font Information
+Geo was drawn in July 1999. It was released without a license in 2001 (version 1.1).
+From the current release, Geo is still available freely but its use, distribution and reproduction is now governed by the terms of the SIL Open Font License. A copy is included with this distribution: see the License file.
+
+Family members:
+Geo
+Geo Oblique
+
+You can read about Geo on my web site: http://www.readingtype.org.uk/
+
+3.  ChangeLog
+(This should list both major and minor changes, most recent first. Here are some examples:)
+
+April 2008 (Ben Weiner) Geo version 1.1 release
+- Incorporation of the OFL license
+- Re-encoding font source files as FontForge ASCII text from MacroMedia Fontographer PostScript files
+
+April 2000 (Ben Weiner) Geo version 1.0
+- Initial release of font "Geo"
+
+4.  Acknowledgements
+(Here is where contributors can be acknowledged.
+If you make modifications be sure to add your name (N), email (E), web-address (W) and description (D).
+This list is sorted by last name in alphabetical order.)
+
+N: name
+E: email
+W: web address
+D: tweaked things
